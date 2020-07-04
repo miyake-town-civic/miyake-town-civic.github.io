@@ -1,0 +1,1 @@
+# miyake-town-civic.github.io
