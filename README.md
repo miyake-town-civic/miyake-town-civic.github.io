@@ -8,3 +8,5 @@
 ## 2020年7月実施の町長選に向けた公開討論会の開催発案から断念までの経緯
 2020年7月実施の町長選に向けた立候補予定者による公開討論会開催を企画してましたが、最終的には断念するに至りました。  
 [その経緯をこちらのサイト](https://miyake-town-civic.github.io/2020-mayoral-election/)に掲載しています。
+
+[動画内で使ったスライドはこちらです](https://docs.google.com/presentation/d/e/2PACX-1vSNEJW6icTk70C1IaV9g6DbtU6rpv2E2bD-KDLIei0Q2ePYC-L880qezaS7vbdiIN-GpwHIA4S5QWre/pub?start=false&loop=false&delayms=3000)
