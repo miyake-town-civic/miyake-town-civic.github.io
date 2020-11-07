@@ -6,7 +6,7 @@
 本会では、一緒に活動してくださる方を募集しています。活動に関心のある方は、[こちらのフォーム](https://forms.gle/Y5HtYJg4PUNhYYfp6)からお問い合わせください。
 
 ## 情報まとめ
-- [note](https://note.com/miyake_civic)
+- [note](https://note.com/miyake_civic)（主な記事はこちらに書いています）
 - [Twitter](https://twitter.com/miyake_civic)
 - 2020年7月実施の町長選に向けた立候補予定者による公開討論会開催を企画してましたが、最終的には断念するに至りました。  
 [その経緯をこちらのサイト](https://miyake-town-civic.github.io/2020-mayoral-election/)に掲載しています。  
