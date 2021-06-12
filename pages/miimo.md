@@ -3,6 +3,14 @@ sort: 2
 ---
 
 # MiiMO
+## webサイト・SNS
+
+- [三宅町webサイト](https://www.town.miyake.lg.jp/chosei/miimo/index.html){:target="_blank"}
+- [公式Twitter](https://twitter.com/MiimoMiyake){:target="_blank"}
+
+## 地図
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3285.2190157185264!2d135.77109441515725!3d34.57332439753728!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60013186b1bd4597%3A0x587e22013a96eb01!2z5LiJ5a6F55S644G-44Gh44Gl44GP44KK5Lqk5rWB44K744Oz44K_44O8TWlpTW8!5e0!3m2!1sja!2sjp!4v1623486914560!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ## 利用者区分
 利用者は以下の通り区分されており、それぞれで利用料や予約可能な日が異なります。
