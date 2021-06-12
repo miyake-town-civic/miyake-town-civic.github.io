@@ -18,7 +18,7 @@ sort: 20
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3285.202103048106!2d135.76537231497355!3d34.573752397514745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1fb1e8ad25150f5b!2z5aWI6Imv55yM5LiJ5a6F5YGl5rCR6YGL5YuV5aC0!5e0!3m2!1sja!2sjp!4v1623490906093!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ## 中央公園
-- [詳しくは町のサイトをご覧ください](http://www.miyake-nara-sports.jp/park/)){:target="_blank"}
+- [詳しくは町のサイトをご覧ください](http://www.miyake-nara-sports.jp/park/){:target="_blank"}
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3285.20093733159!2d135.76620831497357!3d34.57378189751324!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600131ea79c52881%3A0x96871132eeccc84f!2z5LiJ5a6F55S65Lit5aSu5YWs5ZyS!5e0!3m2!1sja!2sjp!4v1623491230380!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
