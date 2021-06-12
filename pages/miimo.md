@@ -5,8 +5,8 @@ sort: 3
 # MiiMO
 ## webサイト・SNS
 
-1. [三宅町webサイト](https://www.town.miyake.lg.jp/chosei/miimo/index.html){:target="_blank"}
-1. [公式Twitter](https://twitter.com/MiimoMiyake){:target="_blank"}
+- [三宅町webサイト](https://www.town.miyake.lg.jp/chosei/miimo/index.html){:target="_blank"}
+- [公式Twitter](https://twitter.com/MiimoMiyake){:target="_blank"}
 
 ## 地図
 
