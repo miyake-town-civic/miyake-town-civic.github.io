@@ -10,7 +10,7 @@ sort: 14
 
 |議長|副議長|監査委員|
 | ------- | ------- | -------- |
-|辰巳光則||瀬角清治|松田晴光|
+|辰巳光則|瀬角清治|松田晴光|
 
 - [行政委員会](https://www.town.miyake.lg.jp/chosei/gyosei/index.html){:target="_blank:"}
 
