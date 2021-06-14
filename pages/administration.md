@@ -5,8 +5,8 @@ sort: 14
 # 町政に関する情報
 
 ## 組織
-- [町長室](https://www.town.miyake.lg.jp/chosei/chocho/index.html){:target="_blank:"}
-- [町議会](https://www.town.miyake.lg.jp/chosei/gikai/index.html){:target="_blank:"}
+- [町長](https://www.town.miyake.lg.jp/chosei/chocho/index.html){:target="_blank:"}
+- [議会](https://www.town.miyake.lg.jp/chosei/gikai/index.html){:target="_blank:"}
 
 |議長|副議長|監査委員|
 | ------- | ------- | -------- |
