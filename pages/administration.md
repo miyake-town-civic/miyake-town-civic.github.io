@@ -18,15 +18,10 @@ sort: 14
 - 川鰭実希子
 - 久保憲史
 - 瀬角清治
-- 辰巳光則
-  - [Twitter](https://twitter.com/tatsumi1967){:target="_blank:"}
+- 辰巳光則 [Twitter](https://twitter.com/tatsumi1967){:target="_blank:"}
 - 松田晴光
-- 松本健
-  - [blog](http://miyake365.jp/){:target="_blank:"}
-  - [Twitter](https://twitter.com/MatsumoTake){:target="_blank:"}
-- 森内哲也
-  - [blog](https://mt.best-for-u.com/){:target="_blank:"}
-  - [Twitter](https://twitter.com/my_moriuch){:target="_blank:"}
+- 松本健 [blog](http://miyake365.jp/){:target="_blank:"} | [Twitter](https://twitter.com/MatsumoTake){:target="_blank:"}
+- 森内哲也 [blog](https://mt.best-for-u.com/){:target="_blank:"}| [Twitter](https://twitter.com/my_moriuch){:target="_blank:"}
 - 渡辺哲久
 
 - [行政委員会](https://www.town.miyake.lg.jp/chosei/gyosei/index.html){:target="_blank:"}
