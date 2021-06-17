@@ -2,7 +2,7 @@
 sort: 14
 ---
 
-# 町政に関する情報
+# 町政・議会
 
 ## 組織
 - [町長](https://www.town.miyake.lg.jp/chosei/chocho/index.html){:target="_blank:"}

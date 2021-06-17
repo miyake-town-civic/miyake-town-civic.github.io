@@ -2,7 +2,7 @@
 sort: 10
 ---
 
-# くらしに関する情報
+# 暮らし
 ## ゴミの出し方
 
 1. [家庭ごみの出し方](https://www.town.miyake.lg.jp/kurashi/sumai/post_98.html)
