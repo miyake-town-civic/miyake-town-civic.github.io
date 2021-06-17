@@ -15,9 +15,4 @@
 
 また、情報の追加、変更の協力をしてくださる方を募集しています（やり方についてはレクチャーします）。
 
-それぞれ、以下のいずれかの方法でご連絡をお願いいたします。
-GitHubとTwitterについては、それぞれのアカウントが必要です。
-
-- [GitHub](https://github.com/miyake-town-civic/miyake-town-civic.github.io/issues/1){:target="_blank"}
-- [Twitter](https://twitter.com/kwaka1208miyake)
-- [メール](mailto:kwaka1208@gmail.com)
+情報提供、協力に関心のある方は、[こちら](https://forms.gle/o9tsHJp7yCFotf1b8)のフォームからご連絡ください。お待ちしています。
