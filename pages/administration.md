@@ -5,7 +5,7 @@ sort: 14
 # 町政・議会
 
 ## 組織
-- [町長](https://www.town.miyake.lg.jp/chosei/chocho/index.html){:target="_blank:"} [Twitter](https://twitter.com/miyake_cho_cho){:target="_blank:"}
+- [町長](https://www.town.miyake.lg.jp/chosei/chocho/index.html){:target="_blank:"}：森田浩司 [Twitter](https://twitter.com/miyake_cho_cho){:target="_blank:"}
 - [議会](https://www.town.miyake.lg.jp/chosei/gikai/index.html){:target="_blank:"}
 
 |議長|副議長|監査委員|
@@ -23,7 +23,8 @@ sort: 14
 - 森内哲也 [blog](https://mt.best-for-u.com/){:target="_blank:"} / [Twitter](https://twitter.com/my_moriuch){:target="_blank:"}
 - 渡辺哲久
 
-- [行政委員会](https://www.town.miyake.lg.jp/chosei/gyosei/index.html){:target="_blank:"}
+### [行政委員会]
+[町webサイト](https://www.town.miyake.lg.jp/chosei/gyosei/index.html){:target="_blank:"}
 
 |委員会名|委員長|副委員長|委員|
 | ------- | ------- | ------- | 
