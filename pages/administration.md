@@ -23,7 +23,7 @@ sort: 14
 - 森内哲也 [blog](https://mt.best-for-u.com/){:target="_blank:"} / [Twitter](https://twitter.com/my_moriuch){:target="_blank:"}
 - 渡辺哲久
 
-### [行政委員会]
+### 行政委員会
 [町webサイト](https://www.town.miyake.lg.jp/chosei/gyosei/index.html){:target="_blank:"}
 
 |委員会名|委員長|副委員長|委員|
