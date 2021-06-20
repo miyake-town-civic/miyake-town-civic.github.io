@@ -16,9 +16,9 @@ sort: 1
 ## 開催場所と時間
 毎週日曜日、以下の時刻・場所で開催しています。
 
-09:00 伴堂東(晴香堂向かい)
-09:30 東屏風(南入口)
-10:00 石見駅前
+- 09:00 伴堂東(晴香堂向かい)
+- 09:30 東屏風(南入口)
+- 10:00 石見駅前
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1DmIAFaboKgTBgWDQyMqK96oAqJS_wDPm" width="640" height="480"></iframe>
 
