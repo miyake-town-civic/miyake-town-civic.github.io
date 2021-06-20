@@ -14,3 +14,7 @@ sort: 16
 
 ## 農園サークル
 - [農園サークル日記](http://seikatsunouen.blog.fc2.com){:target="_blank"}
+
+## コミュニティ活動マップ
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1_crluTwrVG9f3MY_blG6KsKruSHl-kUW&hl=ja" width="640" height="480"></iframe>
