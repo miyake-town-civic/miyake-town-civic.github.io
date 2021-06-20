@@ -37,4 +37,3 @@ sort: 1
 ![](/assets/images/sunday-morning-market/12.jpg)
 ![](/assets/images/sunday-morning-market/13.jpg)
 ![](/assets/images/sunday-morning-market/14.jpg)
-![](/assets/images/sunday-morning-market/15.jpg)
