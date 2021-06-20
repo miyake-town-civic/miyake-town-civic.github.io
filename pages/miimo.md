@@ -2,7 +2,7 @@
 sort: 21
 ---
 
-# MiiMO
+# MiiMo
 ## webサイト・SNS
 
 - [三宅町webサイト](https://www.town.miyake.lg.jp/chosei/miimo/index.html){:target="_blank"}
