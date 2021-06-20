@@ -17,4 +17,4 @@ sort: 16
 
 ## コミュニティ活動マップ
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1_crluTwrVG9f3MY_blG6KsKruSHl-kUW&hl=ja" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1DmIAFaboKgTBgWDQyMqK96oAqJS_wDPm" width="640" height="480"></iframe>
