@@ -10,10 +10,6 @@ sort: 1
 
 ぜひきてください。
 
-このページのQRコードはこちらです
-
-![](/assets/images/sunday-morning-market/qr-sunday-morning-market.png)
-
 ## 開催場所と時間
 毎週日曜日、以下の時刻・場所で開催しています。
 
@@ -41,3 +37,8 @@ sort: 1
 ![](/assets/images/sunday-morning-market/12.jpg)
 ![](/assets/images/sunday-morning-market/13.jpg)
 ![](/assets/images/sunday-morning-market/14.jpg)
+
+## QRコード
+このページのQRコードはこちらです
+
+![](/assets/images/sunday-morning-market/qr-sunday-morning-market.png)
