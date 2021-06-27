@@ -8,7 +8,7 @@
 ## YouTubeチャンネル作りました
 YouTubeチャンネル[三宅町のあれこれチャンネル](https://www.youtube.com/channel/UCLEYWj6KeXPUT1ggbzy9TcQ){:target="_blank"}も作りました。動画での情報発信もしたいなと。
 
-[![三宅町のあれこれチャンネル](/assets/images/YouTube.png)](https://www.youtube.com/channel/UCLEYWj6KeXPUT1ggbzy9TcQ){:target="_blank"}
+[![三宅町のあれこれチャンネル](/assets/images/top/YouTube.png)](https://www.youtube.com/channel/UCLEYWj6KeXPUT1ggbzy9TcQ){:target="_blank"}
 
 ### 動画投稿フォーム
 こちらのチャンネルに掲載する動画も募集します。掲載して欲しい動画がある方は[こちら](https://forms.gle/NyZBkEi7a8T2QSur8){:target="_blank"}から投稿をお願いします。
