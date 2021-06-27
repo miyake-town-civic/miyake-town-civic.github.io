@@ -14,6 +14,7 @@ sort: 22
 - [三宅町交流まちづくりセンターMiiMo](https://twitter.com/MiimoMiyake){:target="_blank"}
 - [グローブの町みやけ【100周年】](https://www.instagram.com/glovetownmiyake2021/){:target="_blank"}
 - [奈良県三宅町教育委員会事務局](https://www.instagram.com/miyake_wanwan/){:target="_blank"}
+- [三宅町フードフェスティバル](https://www.instagram.com/miyakefood/){:target="_blank"}
 
 ## 企業・お店
 - [山口精肉店](https://www.instagram.com/meatshop_yamaguchi/){:target="_blank"}
