@@ -6,7 +6,7 @@
 できる限り一次情報につながるようにしたいので、町のサイトにリンクできるものはリンクし、町のサイトに無いものは独自に入手して編集しています。
 
 ## YouTubeチャンネル作りました
-YouTubeチャンネル[三宅町情報まとめ](https://youtu.be/pfjN8iZzHkI){:target="_blank"}も作りました。動画での情報発信もしたいなと。
+YouTubeチャンネル[三宅町あれこれチャンネル](https://youtu.be/pfjN8iZzHkI){:target="_blank"}も作りました。動画での情報発信もしたいなと。
 
 ### 動画投稿フォーム
 こちらのチャンネルに掲載する動画も募集します。掲載して欲しい動画がある方は[こちら](https://forms.gle/NyZBkEi7a8T2QSur8){:target="_blank"}から投稿をお願いします。
