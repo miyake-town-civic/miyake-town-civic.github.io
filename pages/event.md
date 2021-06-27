@@ -7,5 +7,5 @@ sort: 23
 
 イベント個別のページへのリンクは行いませんので、ご注意ください。
 
-- [crossroads lab.](https://crssrds.peatix.com/view){:target="_blank"}. 
+- [crossroads lab.](https://crssrds.peatix.com/view){:target="_blank"}  
 子ども向けのプログラミングイベントなどを企画・開催しています。
