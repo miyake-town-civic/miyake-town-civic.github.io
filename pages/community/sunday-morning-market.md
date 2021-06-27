@@ -10,6 +10,8 @@ sort: 1
 
 ぜひきてください。
 
+![](/assets/images/sunday-morning-market/flyer.png)
+
 ## 開催場所と時間
 毎週日曜日、以下の時刻・場所で開催しています。
 
