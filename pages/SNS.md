@@ -11,7 +11,9 @@ sort: 22
 - 三宅町立三宅幼児園
   - [Instagram](https://www.instagram.com/miyakeyoujien/){:target="_blank"}
   - [Facebook](https://www.facebook.com/miyakeyoujien/){:target="_blank"}
-- [三宅町交流まちづくりセンターMiiMo](https://twitter.com/MiimoMiyake){:target="_blank"}
+- 三宅町交流まちづくりセンターMiiMo
+  - [Twitter](https://twitter.com/MiimoMiyake){:target="_blank"}
+  - [Facebook](https://www.facebook.com/town.miyake.fukugo/){:target="_blank"}
 - [グローブの町みやけ【100周年】](https://www.instagram.com/glovetownmiyake2021/){:target="_blank"}
 - [奈良県三宅町教育委員会事務局](https://www.instagram.com/miyake_wanwan/){:target="_blank"}
 - [三宅町フードフェスティバル](https://www.instagram.com/miyakefood/){:target="_blank"}
