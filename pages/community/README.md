@@ -9,4 +9,4 @@ sort: 1
 
 ## コミュニティ活動マップ
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1DmIAFaboKgTBgWDQyMqK96oAqJS_wDPm" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1DmIAFaboKgTBgWDQyMqK96oAqJS_wDPm" width="100%" height="480"></iframe>
