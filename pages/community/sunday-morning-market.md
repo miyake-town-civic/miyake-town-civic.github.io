@@ -19,7 +19,7 @@ sort: 1
 - 09:30 東屏風(南入口)
 - 10:00 石見駅前
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1DmIAFaboKgTBgWDQyMqK96oAqJS_wDPm" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1DmIAFaboKgTBgWDQyMqK96oAqJS_wDPm" width="100%" height="480"></iframe>
 
 ## 石見駅前の様子
 2021年6月20日撮影
