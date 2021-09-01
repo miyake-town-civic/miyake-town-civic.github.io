@@ -125,10 +125,10 @@ MiiMoのシェアキッチンでは、曜日ごとの日替わりでそれぞれ
 
 |曜日| 店名 | 主なメニュー |
 | ------- | ------- | -------- |
-|月|tois cafe|手作りスイーツ、ドリンク|
-|火|みぃものこびとぱん|創作パン、ラスク|
-|水|Cafe\*MOMO|コーヒー、スープ|
-|木|喫茶1475|洋食、フルーツサンド|
-|金|アトリエスタ食堂|洋食、パスタ|
+|月|[tois cafe](https://www.instagram.com/tois_cafe/){:target="_blank"}|手作りスイーツ、ドリンク|
+|火|[みぃものこびとぱん](https://www.instagram.com/miimopan/){:target="_blank"}|創作パン、ラスク|
+|水|[Cafe\*MOMO](https://www.instagram.com/cafemomotime/){:target="_blank"}|コーヒー、スープ|
+|木|[喫茶1475](https://www.instagram.com/kissa_1475/){:target="_blank"}|洋食、フルーツサンド|
+|金|[アトリエスタ食堂](https://www.instagram.com/ateliesta_food.jp/){:target="_blank"}|洋食、パスタ|
 |土|-|-|
-|第2日曜|オオニシ恭子のやまと薬膳|お弁当、玄米サンド|
+|第2日曜|[オオニシ恭子のやまと薬膳](https://www.instagram.com/yamato_yakuzen/){:target="_blank"}|お弁当、玄米サンド|
