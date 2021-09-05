@@ -4,6 +4,7 @@ sort: 01
 
 # 三宅町の情報発信
 - [三宅町公式サイト](https://www.town.miyake.lg.jp/)
+- [広報（2017年4月以降の広報が読めます）](https://www.town.miyake.lg.jp/koho/koho.php){:target="_blank"}  
 - [三宅町役場公式note](https://miyake-town.note.jp){:target="_blank"}
 - [三宅町役場公式LINE](https://line.me/R/ti/p/%40418wdvsx){:target="_blank"}  
 
