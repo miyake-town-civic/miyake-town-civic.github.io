@@ -2,10 +2,11 @@
 sort: 22
 ---
 
-# 三宅町関連SNSアカウント
-
+# 三宅町役場公式サイト、関連SNSアカウント
+- [三宅町公式サイト](https://www.town.miyake.lg.jp/)
 - [三宅町役場公式note](https://miyake-town.note.jp){:target="_blank"}
 - [三宅町役場公式LINE](https://line.me/R/ti/p/%40418wdvsx){:target="_blank"}  
+
 以下のQRコードをタップするかスマートフォンで読み取ってください。
 
 [![三宅町役場公式LINE](/assets/images/sns/LINE.png)](https://line.me/R/ti/p/%40418wdvsx){:target="_blank"}
