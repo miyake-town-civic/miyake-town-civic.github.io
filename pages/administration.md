@@ -3,6 +3,7 @@ sort: 14
 ---
 
 # 町政・議会
+- [三宅町まち・ひと・しごと創生人口ビジョン及び総合戦略](https://www.town.miyake.lg.jp/chosei/sesaku/post_40.html){:target="_blank:"}
 
 ## 組織
 - [町長](https://www.town.miyake.lg.jp/chosei/chocho/index.html){:target="_blank:"}：森田浩司 [Twitter](https://twitter.com/miyake_cho_cho){:target="_blank:"}
