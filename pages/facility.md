@@ -7,6 +7,9 @@ sort: 22
 
 [三宅町内各種施設（Google Maps）](https://goo.gl/maps/dDxV3e61secR54qR9){:target="_blank"}
 
+## 三宅町交流まちづくりセンターMiiMo
+- [こちらをご覧ください](/pages/miimo.html)
+
 ## 三宅町体育館
 - [詳しくは町のサイトをご覧ください](http://www.miyake-nara-sports.jp/gym/){:target="_blank"}
 

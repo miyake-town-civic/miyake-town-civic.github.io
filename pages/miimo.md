@@ -2,7 +2,7 @@
 sort: 21
 ---
 
-# MiiMo
+# MiiMo交流まちづくりセンター
 ## webサイト・SNS
 
 - [MiiMo公式サイト](https://www.miimo.jp/){:target="_blank"}
