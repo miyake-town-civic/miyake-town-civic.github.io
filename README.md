@@ -7,6 +7,9 @@
 
 **このサイトは三宅町在住の有志が構築運営しているもので、三宅町役場が運営しているものではありません。お問い合わせなどは、[こちら](https://forms.gle/o9tsHJp7yCFotf1b8){:target="_blank"}のフォームからご連絡ください。**
 
+## TwitterとInstagramもあります。
+実は、[Twitter](https://twitter.com/miyake_info){:target="_blank"}と[Instagram](https://www.instagram.com/miyake.info/){:target="_blank"}もあります。それぞれフォローしていただけると嬉しいです。
+
 ## YouTubeチャンネル作りました
 YouTubeチャンネル[三宅町のあれこれチャンネル](https://www.youtube.com/channel/UCLEYWj6KeXPUT1ggbzy9TcQ){:target="_blank"}も作りました。動画での情報発信もしたいなと。
 
