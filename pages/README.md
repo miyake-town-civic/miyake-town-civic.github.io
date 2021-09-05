@@ -1,9 +1,5 @@
 ---
 sort: 1
 ---
-
-# インデックス
-
-- [三宅町公式サイト](https://www.town.miyake.lg.jp/)
-
-{% include list.liquid all=true %}
+# 三宅町へ引っ越してこられた方へ
+このサイトは、三宅町に関連する情報をまとめたサイトですが、新しく引っ越してこられた方にはまず、[暮らし](/pages/life.html)と[三宅町の情報発信](/pages/media.html)をご覧いただければと思います。
