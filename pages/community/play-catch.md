@@ -1,9 +1,10 @@
 ---
 sort: 3
+title: キャッチボールやろうぜ
+header:
+    OGP_image: /assets/images/play-catch/OGP.png
 ---
 ![](/assets/images/play-catch/OGP.png)
-
-## キャッチボールやろうぜ
 
 **みんなで集まってキャッチボールやろうぜ**
 
@@ -20,6 +21,7 @@ sort: 3
 ## 次回開催
 
 開催日時：2021年11月13日（土）9:00〜12:00
+
 集合場所：奈良県三宅健民運動場（[Googleマップはこちら](https://goo.gl/maps/UmdvsJ2dKMa52DncA){:target="_blank"}）
 
 ## 持ってくるもの
