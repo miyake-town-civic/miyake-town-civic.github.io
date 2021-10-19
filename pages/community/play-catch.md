@@ -2,7 +2,7 @@
 sort: 3
 title: キャッチボールやろうぜ
 header:
-    OGP_image: /assets/images/play-catch/OGP.png
+    og_image: /assets/images/play-catch/OGP.png
 ---
 ![](/assets/images/play-catch/OGP.png)
 
