@@ -1,5 +1,7 @@
 ---
 sort: 1
+header:
+    og_image: /assets/images/sunday-morning-market/OGP.png
 ---
 
 # みやけまちづくりの会 - 日曜朝市
