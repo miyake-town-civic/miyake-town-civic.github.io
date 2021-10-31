@@ -7,6 +7,9 @@
 
 **このサイトは三宅町在住の有志が構築運営しているもので、三宅町役場が運営しているものではありません。お問い合わせなどは、[こちら](https://forms.gle/o9tsHJp7yCFotf1b8){:target="_blank"}のフォームからご連絡ください。**
 
+## 三宅町へ引っ越してこられた方へ
+このサイトは、三宅町に関連する情報をまとめたサイトですが、新しく引っ越してこられた方にはまず、[暮らし](/pages/life.html)と[三宅町の情報発信](/pages/media.html)をご覧いただければと思います。
+
 ## TwitterとInstagramもあります。
 実は、[Twitter](https://twitter.com/miyake_info){:target="_blank"}と[Instagram](https://www.instagram.com/miyake.info/){:target="_blank"}もあります。それぞれフォローしていただけると嬉しいです。
 
