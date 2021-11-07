@@ -6,7 +6,8 @@ sort: 10
 ## ゴミの出し方
 
 1. [家庭ごみの出し方](https://www.town.miyake.lg.jp/kurashi/sumai/post_98.html){:target="_blank"}
-2. [粗大ごみの出し方（リクエスト収集）](https://www.town.miyake.lg.jp/kurashi/sumai/post_157.html){:target="_blank"}
+2. [粗大ごみの出し方（リクエスト収集）](https://www.town.miyake.lg.jp/kurashi/sumai/post_157.html){:target="_blank"}  
+粗大ごみの収集予約電話番号：[0745-44-3077](tel:0745443077)（環境衛生課直通）
 3. [新型コロナウイルスにかかる家庭ごみの排出方法について](https://www.town.miyake.lg.jp/kurashi/sumai/post_559.html){:target="_blank"}
 4. [2021（令和3）年度のごみ収集日カレンダー](https://www.town.miyake.lg.jp/kurashi/sumai/post_764.html){:target="_blank"}
 
