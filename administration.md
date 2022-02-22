@@ -16,7 +16,7 @@ sort: 14
 ### 議員（50音順）
 - 池田利夫
 - 川鰭実希子
-- 久保憲史
+- 久保憲史 [Twitter](https://twitter.com/RyBpyUn5KnNvmi0){:target="_blank:"} / [Instagram](https://www.instagram.com/norifmi/){:target="_blank:"}
 - 瀬角清治
 - 辰巳光則 [Twitter](https://twitter.com/tatsumi1967){:target="_blank:"}
 - 松田晴光
