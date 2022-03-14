@@ -10,6 +10,13 @@ sort: 21
 - [公式Twitter](https://twitter.com/MiimoMiyake){:target="_blank"}
 - [公式Facebook](https://www.facebook.com/town.miyake.fukugo/){:target="_blank"}
 
+## オンライン予約
+2022年3月1日からこちらのページでオンライン予約できるようになりました。
+
+- [MiiMoオンライン予約](https://coubic.com/miimo){:target="_blank"}
+
+操作方法は[こちら](https://www.miimo.jp/notice/miimo%e3%81%ae%e3%83%8d%e3%83%83%e3%83%88%e4%ba%88%e7%b4%84%e3%81%8c%e9%96%8b%e5%a7%8b%ef%bc%81%e3%80%883%e6%9c%881%e6%97%a5%e3%82%88%e3%82%8a%e3%80%89/){:target="_blank"}にあります。
+
 ## 地図
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3285.2190157185264!2d135.77109441515725!3d34.57332439753728!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60013186b1bd4597%3A0x587e22013a96eb01!2z5LiJ5a6F55S644G-44Gh44Gl44GP44KK5Lqk5rWB44K744Oz44K_44O8TWlpTW8!5e0!3m2!1sja!2sjp!4v1623486914560!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
